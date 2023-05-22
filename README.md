@@ -5,8 +5,8 @@ This is a complete Node.js Microservice for auto responding to new mails and tag
 
 **Functions - **
 
-1. Edit your responce and refresh time in the code (index.js)
-2. Run the service
+1. Edit your responce and your email address in the code (index.js)
+2. Run the service (main.js)
 3. Authenticate to your google account
 4. All new mails will be responded automatically with the pre written responces
 5. All responded mails are tagged and stored with new label id
